@@ -1,0 +1,13 @@
+package com.example.amdocsspringboot2;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Amdocsspringboot2ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
